@@ -1,0 +1,49 @@
+
+@media(max-width: 768px) {
+
+  #who {
+    display: block;
+  }
+
+  #who .who-img {
+    display: none;
+  }
+
+  #who .who-text h2 {
+    text-align: center;
+  }
+
+
+
+  #contact {
+    display: block;
+    padding: 1rem;
+  }
+
+  #contact .contact-form {
+    padding: 1.5rem 1rem;
+  }
+
+  #contact .contact-form label {
+    margin-bottom: 0.8rem;
+  }
+
+  #contact .contact-form h2 {
+    font-size: 2.3rem;
+  }
+
+  #contact .contact-form .btn-dark {
+    width: 100%;
+    margin-bottom: 3.5rem;
+  }
+
+  #contact .contact-info {
+    
+  }
+
+  #contact .contact-info .info {
+    padding: 0 1rem;
+    margin-bottom: 3rem;
+  }
+
+}
